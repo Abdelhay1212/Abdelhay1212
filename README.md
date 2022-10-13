@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdelhay1212
+- 👋 Hi, I’m Abdelhay
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning front end development
 
