@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelhay
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently studying software engineering
 
 <!---
 Abdelhay1212/Abdelhay1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
