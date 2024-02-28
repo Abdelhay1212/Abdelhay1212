@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a dedicated back-end developer from Morocco, s
 
 ## 🤝 Connect with me:
 
-- LinkedIn: [https://drive.google.com/file/d/1TKevGJJPX8XOXeFLSwNjDFNMnfAsGu6k/view?usp=sharing](https://www.linkedin.com/in/abdelhay-et-taouaf/)
-- Twiter: [Abdelha93861549](https://twitter.com/Abdelha93861549)
+- LinkedIn: [Abdelhay Et-taouaf](https://www.linkedin.com/in/abdelhay-et-taouaf/)
+- Twiter: [Abdelhay Et-taouaf](https://twitter.com/Abdelha93861549)
 - Discord: abdelhay12
 
 ## 💻 Languages and Tools:
