@@ -33,6 +33,6 @@ Welcome to my GitHub profile! I'm a dedicated back-end developer from Morocco, s
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-07B6D5?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
