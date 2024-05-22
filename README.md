@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a dedicated back-end developer from Morocco, s
 ## 🚀 About Me
 
 - 🔭 I’m currently working on:
-  - Building Text Editor using Pytohn
+  - working on an online interpreter for python
 
 - 📫 How to reach me: abdelhayettaouaf@gmail.com
 
