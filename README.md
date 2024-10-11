@@ -4,9 +4,6 @@ Welcome to my GitHub profile! I'm a dedicated back-end developer from Morocco, s
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on:
-  - working on a quiz web application for learning Python
-
 - 📫 How to reach me: abdelhayettaouaf@gmail.com
 
 ## 🤝 Connect with me:
