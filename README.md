@@ -1,15 +1,14 @@
 # Hi 👋, I'm Abdelhay ET-TAOUAF
 
-Welcome to my GitHub profile! I'm a dedicated back-end developer from Morocco, specializing in Python. My passion lies in creating robust and scalable back-end systems that drive innovative web applications. Through my diverse projects and collaborative endeavors, I aim to make a meaningful impact on the technology landscape and continuously broaden my technical expertise.
+Welcome to my GitHub profile! I'm a dedicated back-end developer from Morocco, specializing in Python and PHP. My passion lies in creating robust and scalable back-end systems that drive innovative web applications. Through my diverse projects and collaborative endeavors, I aim to make a meaningful impact on the technology landscape and continuously broaden my technical expertise.
 
 ## 🚀 About Me
 
-- 📫 How to reach me: abdelhayettaouaf@gmail.com
+- 📫 How to reach me: ettaouaf.abdelhay@gmail.com
 
 ## 🤝 Connect with me:
 
-- LinkedIn: <a href="https://linkedin.com/in/abdelhayettaouaf" target="_blank">Abdelhay Et-taouaf</a>
-- Twiter: [Abdelhay Et-taouaf](https://twitter.com/Abdelha93861549)
+- LinkedIn: <a href="https://www.linkedin.com/in/abdelhayettaouaf/" target="_blank">Abdelhay Et-taouaf</a>
 - Discord: abdelhay12
 
 ## 💻 Languages and Tools:
